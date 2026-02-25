@@ -43,6 +43,11 @@ A reference implementation for a control layer that authorizes cloud changes bas
 End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend prediction with minimal operational overhead (<$10/month).
 `Vertex AI` · `BigQuery` · `Terraform`
 
+#### 🆓 [AWS Zero-Cost FinOps](https://github.com/matiascloudarch/AWS-Zero-Costs)
+*Real-Time Cost Monitoring ($0 Budget)*  
+Automated alerting system built entirely on **AWS Free Tier** using Lambda, SNS, and QuickSight to demonstrate high-ROI infrastructure design.
+`Lambda` · `Terraform` · `QuickSight`
+
 ---
 
 ### 🏆 Quantified Impact
@@ -57,10 +62,30 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 
 ### 🛠️ Technology Stack
 
-| **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=aws" width="40"> <img src="https://skillicons.dev/icons?i=gcp" width="40"> <img src="https://skillicons.dev/icons?i=azure" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="65"> | <img src="https://skillicons.dev/icons?i=py" width="40"> <img src="https://skillicons.dev/icons?i=r" width="40"> <img src="https://skillicons.dev/icons?i=tensorflow" width="40"> <img src="https://skillicons.dev/icons?i=pytorch" width="40"> | <img src="https://skillicons.dev/icons?i=terraform" width="40"> <img src="https://skillicons.dev/icons?i=kubernetes" width="40"> <img src="https://skillicons.dev/icons?i=docker" width="40"> <img src="https://skillicons.dev/icons?i=git" width="40"> |
-| <small>AWS · GCP · Azure · **OCI**</small> | <small>Python · R · TF · PyTorch</small> | <small>Terraform · K8s · Docker · Git</small> |
+<table width="100%">
+  <tr>
+    <th width="33%">Cloud Sovereignty</th>
+    <th width="33%">AI & Data Intelligence</th>
+    <th width="33%">Orchestration & Security</th>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" valign="middle" height="80">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" style="vertical-align: middle;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" style="vertical-align: middle; margin-left: 5px;" />
+    </td>
+    <td align="center" valign="middle" height="80">
+      <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="40" style="vertical-align: middle;" />
+    </td>
+    <td align="center" valign="middle" height="80">
+      <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="40" style="vertical-align: middle;" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><small>AWS · GCP · Azure · <b>OCI</b></small></td>
+    <td align="center"><small>Python · R · TF · PyTorch</small></td>
+    <td align="center"><small>Terraform · K8s · Docker · Git</small></td>
+  </tr>
+</table>
 
 ---
 
