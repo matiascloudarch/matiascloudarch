@@ -57,10 +57,30 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 
 ### 🛠️ Technology Stack
 
-| **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
-| :---: | :---: | :---: |
-| <p align="center"><img src="https://skillicons.dev/icons?i=aws" height="50" /> <img src="https://skillicons.dev/icons?i=gcp" height="50" /> <img src="https://skillicons.dev/icons?i=azure" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=py" height="50" /> <img src="https://skillicons.dev/icons?i=r" height="50" /> <img src="https://skillicons.dev/icons?i=tensorflow" height="50" /> <img src="https://skillicons.dev/icons?i=pytorch" height="50" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=terraform" height="50" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="50" /> <img src="https://skillicons.dev/icons?i=docker" height="50" /> <img src="https://skillicons.dev/icons?i=git" height="50" /></p> |
-| AWS · GCP · Azure · **OCI** | Python · R · TF · PyTorch | Terraform · K8s · Docker · Git |
+<table width="100%">
+  <tr>
+    <th width="33%">Cloud Sovereignty</th>
+    <th width="33%">AI & Data Intelligence</th>
+    <th width="33%">Orchestration & Security</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" />
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" height="30" style="vertical-align: middle; padding-left: 5px;" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="40" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">AWS · GCP · Azure · <b>OCI</b></td>
+    <td align="center">Python · R · TF · PyTorch</td>
+    <td align="center">Terraform · K8s · Docker · Git</td>
+  </tr>
+</table>
 
 ---
 
