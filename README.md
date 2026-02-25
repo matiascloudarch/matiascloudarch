@@ -28,15 +28,15 @@ By blending **Experimental Psychology** with **Data Governance**, I build determ
 
 ### 🚀 Featured Architectures (R&D)
 
-#### ⚖️ [Decision Control Plane (DCP)](https://github.com/matiascloudarch/decision-control-plane)
-*Deterministic Infrastructure Governance*  
-A reference implementation for a control layer that authorizes cloud changes based on **Stochastic Risk Projections (Monte Carlo)**. It prevents "flapping" and instability in large-scale systems.
-`Python` · `Stochastic Modeling` · `Control Theory`
-
 #### 🛡️ [Cognitive Decision Architecture (CDA)](https://github.com/matiascloudarch/cda)
 *High-Integrity Framework for AI Agents*  
-Enforces business rules on autonomous agents using **PASETO v4 tokens** and tamper-evident forensic ledgers to guarantee non-repudiation and safety.
+Enforces business rules on autonomous agents using **PASETO v4 tokens** and tamper-evident forensic ledgers to guarantee non-repudiation and safety. Bridges the gap between agent intent and corporate compliance.
 `LLM Governance` · `Security` · `Forensic Auditing`
+
+#### ⚖️ [Decision Control Plane (DCP)](https://github.com/matiascloudarch/decision-control-plane)
+*Deterministic Infrastructure Governance*  
+A reference implementation for a control layer that authorizes cloud changes based on **Stochastic Risk Projections (Monte Carlo)**. It prevents "flapping" and instability in large-scale systems by applying control-theoretic logic.
+`Python` · `Stochastic Modeling` · `Control Theory`
 
 #### 📈 [AI-Powered FinOps (GCP)](https://github.com/matiascloudarch/Gcp-finops-ml-cost-prediction)  
 *ML-Driven Cost Forecasting*  
@@ -61,7 +61,7 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 
 | **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle" height="65" /> | <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="65" /> | <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="65" /> |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" /> | <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="65" /> | <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="65" /> |
 | AWS · GCP · Azure · **OCI** | Python · R · TF · PyTorch | Terraform · K8s · Docker · Git |
 
 </div>
