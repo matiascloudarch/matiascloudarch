@@ -63,28 +63,40 @@ Automated alerting system built entirely on **AWS Free Tier** using Lambda, SNS,
 ### 🛠️ Technology Stack
 
 <table width="100%">
-  <tr>
-    <th width="33%">Cloud Sovereignty</th>
-    <th width="33%">AI & Data Intelligence</th>
-    <th width="33%">Orchestration & Security</th>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" valign="middle" height="80">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" style="vertical-align: middle;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" style="vertical-align: middle; margin-left: 5px;" />
-    </td>
-    <td align="center" valign="middle" height="80">
-      <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="40" style="vertical-align: middle;" />
-    </td>
-    <td align="center" valign="middle" height="80">
-      <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="40" style="vertical-align: middle;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><small>AWS · GCP · Azure · <b>OCI</b></small></td>
-    <td align="center"><small>Python · R · TF · PyTorch</small></td>
-    <td align="center"><small>Terraform · K8s · Docker · Git</small></td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="33%" align="center">Cloud Sovereignty</th>
+      <th width="33%" align="center">AI & Data Intelligence</th>
+      <th width="33%" align="center">Orchestration & Security</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=aws" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=gcp" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=azure" height="40" style="vertical-align: middle;" />
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="22" style="vertical-align: middle; margin-left: 5px;" />
+      </td>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=py" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=r" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=pytorch" height="40" style="vertical-align: middle;" />
+      </td>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=terraform" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" style="vertical-align: middle;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><small>AWS · GCP · Azure · <b>OCI</b></small></td>
+      <td align="center"><small>Python · R · TF · PyTorch</small></td>
+      <td align="center"><small>Terraform · K8s · Docker · Git</small></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
