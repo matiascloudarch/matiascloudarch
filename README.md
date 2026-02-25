@@ -57,29 +57,10 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 
 ### 🛠️ Technology Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>Cloud Sovereignty</h4>
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" style="vertical-align: middle; margin-top: -15px;" />
-      <br /><br />
-      <small>AWS · GCP · Azure · <b>OCI</b></small>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>AI & Data Intelligence</h4>
-      <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="40" />
-      <br /><br />
-      <small>Python · R · TF · PyTorch</small>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>Orchestration & Security</h4>
-      <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="40" />
-      <br /><br />
-      <small>Terraform · K8s · Docker · Git</small>
-    </td>
-  </tr>
-</table>
+| **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=aws" width="40"> <img src="https://skillicons.dev/icons?i=gcp" width="40"> <img src="https://skillicons.dev/icons?i=azure" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="65"> | <img src="https://skillicons.dev/icons?i=py" width="40"> <img src="https://skillicons.dev/icons?i=r" width="40"> <img src="https://skillicons.dev/icons?i=tensorflow" width="40"> <img src="https://skillicons.dev/icons?i=pytorch" width="40"> | <img src="https://skillicons.dev/icons?i=terraform" width="40"> <img src="https://skillicons.dev/icons?i=kubernetes" width="40"> <img src="https://skillicons.dev/icons?i=docker" width="40"> <img src="https://skillicons.dev/icons?i=git" width="40"> |
+| <small>AWS · GCP · Azure · **OCI**</small> | <small>Python · R · TF · PyTorch</small> | <small>Terraform · K8s · Docker · Git</small> |
 
 ---
 
