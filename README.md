@@ -1,7 +1,7 @@
 <div align="center">
   
 # Matías Salgado  
-**Solutions Architect | Cloud, AI & Decision Intelligence**  
+**Lead Solutions Architect | Cloud, AI & Decision Intelligence**  
 *Deterministic Governance | Predictive FinOps | Technical Sovereignty*  
 
 > _"Trust is not a belief; it is an emergent property of architecture."_
@@ -57,14 +57,10 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 
 ### 🛠️ Technology Stack
 
-<div align="center">
-
 | **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" /> | <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="65" /> | <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="65" /> |
+| <p align="center"><img src="https://skillicons.dev/icons?i=aws" height="50" /> <img src="https://skillicons.dev/icons?i=gcp" height="50" /> <img src="https://skillicons.dev/icons?i=azure" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=py" height="50" /> <img src="https://skillicons.dev/icons?i=r" height="50" /> <img src="https://skillicons.dev/icons?i=tensorflow" height="50" /> <img src="https://skillicons.dev/icons?i=pytorch" height="50" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=terraform" height="50" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="50" /> <img src="https://skillicons.dev/icons?i=docker" height="50" /> <img src="https://skillicons.dev/icons?i=git" height="50" /></p> |
 | AWS · GCP · Azure · **OCI** | Python · R · TF · PyTorch | Terraform · K8s · Docker · Git |
-
-</div>
 
 ---
 
