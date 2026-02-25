@@ -16,7 +16,7 @@
 
 ### 🔍 Strategic Focus: The Decision Design Problem
 
-I architect systems that solve the gap between **prediction** and **action**. Most modern infrastructures are great at forecasting metrics but fragile at deciding when it is safe to act. 
+I architect systems that bridge the gap between **prediction** and **action**. Most modern infrastructures excel at forecasting metrics but remain fragile when deciding when it is safe to act. 
 
 By blending **Experimental Psychology** with **Data Governance**, I build deterministic control layers that ensure AI and Cloud operations are auditable, cost-aware, and resilient under uncertainty.
 
@@ -58,10 +58,11 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 ### 🛠️ Technology Stack
 
 <div align="center">
-  
+
 | **Cloud Sovereignty** | **AI & Data Intelligence** | **Orchestration & Security** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" width="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40"> | <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" width="45"> | <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" width="45"> |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle" height="65" /> | <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch" height="65" /> | <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git" height="65" /> |
+| AWS · GCP · Azure · **OCI** | Python · R · TF · PyTorch | Terraform · K8s · Docker · Git |
 
 </div>
 
@@ -79,4 +80,4 @@ End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend predic
 ### 🌐 Let’s Connect
 I’m interested in roles where business logic meets technical rigor: **Staff/Solutions Architecture, AI Platform Engineering, or Cloud Strategy.**
 
-**Contact:** matias.cloudarch@gmail.com | [LinkedIn](https://www.linkedin.com/in/matiascloudarch)
+**Contact:** [matias.cloudarch@gmail.com](mailto:matias.cloudarch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matiascloudarch)
