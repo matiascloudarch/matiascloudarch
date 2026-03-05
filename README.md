@@ -28,7 +28,7 @@ By blending **Experimental Psychology** with **Data Governance**, I build determ
 
 ### 🚀 Featured Architectures (R&D)
 
-#### 🛡️ [Cognitive Decision Architecture (CDA)](https://github.com/matiascloudarch/cda)
+#### 🛡️ [Cognitive Decision Architecture (CDA)](https://github.com/matiascloudarch/cognitive-decision-architecture)
 *High-Integrity Framework for AI Agents*  
 Enforces business rules on autonomous agents using **PASETO v4 tokens** and tamper-evident forensic ledgers to guarantee non-repudiation and safety. Bridges the gap between agent intent and corporate compliance.
 `LLM Governance` · `Security` · `Forensic Auditing`
