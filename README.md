@@ -60,6 +60,49 @@ By combining an M.Sc. in Data Management with systemic risk modeling, I engineer
     <tr>
       <th width="33%" align="center">Data & AI Governance</th>
       <th width="33%" align="center">Cloud Infrastructure</th>
-      <th width="3
+      <th width="33%" align="center">Data & Analytics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=terraform" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=docker" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=git" height="40" style="vertical-align: middle;" />
+      </td>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=aws" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=gcp" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=azure" height="40" style="vertical-align: middle;" />
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="22" style="vertical-align: middle; margin-left: 5px;" />
+      </td>
+      <td align="center" valign="middle" height="60">
+        <img src="https://skillicons.dev/icons?i=py" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=r" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="vertical-align: middle;" />
+        <img src="https://skillicons.dev/icons?i=pytorch" height="40" style="vertical-align: middle;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><small>Compliance-as-Code · Tech GRC · Lineage</small></td>
+      <td align="center"><small>AWS · GCP · Azure · <b>OCI</b></small></td>
+      <td align="center"><small>Python · R · TF · PyTorch</small></td>
+    </tr>
+  </tbody>
+</table>
 
-**Contact:** [matias.cloudarch@gmail.com](mailto:matias.cloudarch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matiascloudarch)
+---
+
+### 🎓 Education & Certifications
+
+- **M.Sc. in Data Management & Analytics in Organizations** – Universidad de Buenos Aires (In Progress). Focus: *Tech GRC & Generative AI Governance*.
+- **Postgraduate Specialization in Data Management & Analytics** – Universidad de Buenos Aires. Focus: *Data Infrastructure Governance & Risk Mitigation*.
+- **OCI Multicloud Architect Professional** (2025).
+- **OCI Generative AI Professional** (2026).
+- **B.Sc. in Experimental Psychology** – Universidad de Buenos Aires. Focus: *Algorithmic Bias Mitigation & Behavioral Risk*.
+
+---
+
+### 🌐 Let’s Connect
+I focus on roles where engineering rigor meets enterprise compliance: **Data/AI Governance Architect, Technical GRC Lead, or Senior Solutions Architect (Cloud/FinOps/MLOps Governance).**
