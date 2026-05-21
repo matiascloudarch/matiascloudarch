@@ -1,10 +1,7 @@
 <div align="center">
   
 # Matías Salgado  
-**Lead Solutions Architect | Cloud, AI & Decision Intelligence**  
-*Deterministic Governance | Predictive FinOps | Technical Sovereignty*  
-
-> _"Trust is not a belief; it is an emergent property of architecture."_
+**Data & AI Governance Architect | Compliance-as-Code Specialist** *Deterministic Cloud Governance | Tech GRC | Enterprise FinOps & MLOps Integrity* > _"Trust is not a belief; it is an emergent property of architecture."_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiascloudarch)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.cloudarch@gmail.com)
@@ -14,49 +11,45 @@
 
 ---
 
-### 🔍 Strategic Focus: The Decision Design Problem
+### 🔍 Strategic Focus: Compliance-as-Code & Risk Engineering
 
-I architect systems that bridge the gap between **prediction** and **action**. Most modern infrastructures excel at forecasting metrics but remain fragile when deciding when it is safe to act. 
+I architect multi-cloud systems where regulatory compliance, data privacy, and financial guardrails are enforced directly at the runtime layer. While traditional governance relies on passive documentation, I build **deterministic control planes** that bridge the gap between corporate policies and infrastructure execution.
 
-By blending **Experimental Psychology** with **Data Governance**, I build deterministic control layers that ensure AI and Cloud operations are auditable, cost-aware, and resilient under uncertainty.
+By combining an M.Sc. in Data Management with systemic risk modeling, I engineer cloud and AI environments that actively enforce data lineage, auditing, and cost accountability in real-time under high-uncertainty conditions.
 
-- ⚖️ **Deterministic Governance**: Moving logic from ad-hoc scripts to formal Control Planes.
-- 📉 **Predictive FinOps**: Treating cloud cost as telemetry to drive real-time architectural decisions.
-- 🛡️ **Cloud Sovereignty**: Designing multicloud systems that guarantee data control and avoid vendor lock-in.
+- ⚖️ **Governance-as-Code**: Transitioning static legal and compliance frameworks into formal, executable software guardrails.
+- 📊 **FinOps & Cost Governance**: Treating cloud infrastructure spend as real-time compliance telemetry to prevent budgetary drift.
+- 🛡️ **Data & AI Sovereignty**: Designing multi-cloud architectures (Zero Egress, In-Perimeter isolation) that guarantee complete data custody.
 
 ---
 
-### 🚀 Featured Architectures (R&D)
+### 🚀 Featured Governance Architectures (R&D)
 
 #### 🛡️ [Cognitive Decision Architecture (CDA)](https://github.com/matiascloudarch/cognitive-decision-architecture)
-*High-Integrity Framework for AI Agents*  
-Enforces business rules on autonomous agents using **PASETO v4 tokens** and tamper-evident forensic ledgers to guarantee non-repudiation and safety. Bridges the gap between agent intent and corporate compliance.
-`LLM Governance` · `Security` · `Forensic Auditing`
+*High-Integrity Framework for Cryptographic AI Governance* Enforces strict business rules and compliance on autonomous AI agent ecosystems using **PASETO v4 tokens** and tamper-evident forensic ledgers. Guarantees technical non-repudiation and semantic traceability between agent intent and regulatory baselines.
+`AI Governance` · `Cryptography` · `Forensic Auditing` · `Tech GRC`
 
 #### ⚖️ [Decision Control Plane (DCP)](https://github.com/matiascloudarch/decision-control-plane)
-*Deterministic Infrastructure Governance*  
-A reference implementation for a control layer that authorizes cloud changes based on **Stochastic Risk Projections (Monte Carlo)**. It prevents "flapping" and instability in large-scale systems by applying control-theoretic logic.
-`Python` · `Stochastic Modeling` · `Control Theory`
+*Deterministic Cloud Infrastructure Governance* A reference implementation for an automated governance layer that authorizes infrastructure state changes based on **Stochastic Risk Projections (Monte Carlo)**. Prevents system instability, logic debt, and unauthorized configuration drift.
+`Cloud Governance` · `Risk Mitigation` · `Policy-as-Code` · `Control Theory`
 
-#### 📈 [AI-Powered FinOps (GCP)](https://github.com/matiascloudarch/Gcp-finops-ml-cost-prediction)  
-*ML-Driven Cost Forecasting*  
-End-to-end MLOps pipeline on **Vertex AI** for near real-time cloud spend prediction with minimal operational overhead (<$10/month).
-`Vertex AI` · `BigQuery` · `Terraform`
+#### 📉 [GCP FinOps ML Cost Prediction](https://github.com/matiascloudarch/gcp-finops-ml-cost-prediction)  
+*Automated Budgetary Guardrails & Cost Governance* End-to-end MLOps pipeline on **Vertex AI** and BigQuery for real-time cloud spend monitoring and predictive threshold enforcement. Implements automated alerts and cost policy governance with near-zero operational overhead.
+`FinOps` · `Budgetary Governance` · `Vertex AI` · `Terraform`
 
-#### 🆓 [AWS Zero-Cost FinOps](https://github.com/matiascloudarch/AWS-Zero-Costs)
-*Real-Time Cost Monitoring ($0 Budget)*  
-Automated alerting system built entirely on **AWS Free Tier** using Lambda, SNS, and QuickSight to demonstrate high-ROI infrastructure design.
-`Lambda` · `Terraform` · `QuickSight`
+#### 🆓 [AWS Zero-Cost FinOps](https://github.com/matiascloudarch/aws-zero-costs)
+*Serverless Real-Time Data & Cost Audit Pipeline* Automated compliance and budget alerting system built entirely on **AWS Free Tier** using Lambda and SNS. Demonstrates high-ROI architectural patterns for continuous infrastructure financial auditability.
+`FinOps` · `Serverless Architecture` · `AWS Lambda` · `Terraform`
 
 ---
 
 ### 🏆 Quantified Impact
 
-| Metric | Business Outcome |
+| Metric | Business & Governance Outcome |
 | :--- | :--- |
-| **Financial Efficiency** | ↓ 15% reduction in cloud OPEX through predictive governance. |
-| **System Reliability** | ↑ 30% reduction in critical incidents via intelligent monitoring logic. |
-| **Operational Velocity** | +10h/week saved per team through automated decision workflows. |
+| **Financial Governance** | ↓ 15% reduction in multi-cloud OPEX through automated FinOps policy enforcement. |
+| **Operational Resilience** | ↓ 30% reduction in critical data-pipeline incidents via automated risk mitigation. |
+| **Compliance Velocity** | +10h/week saved per operational team through automated control and audit workflows. |
 
 ---
 
@@ -65,52 +58,8 @@ Automated alerting system built entirely on **AWS Free Tier** using Lambda, SNS,
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%" align="center">Cloud Sovereignty</th>
-      <th width="33%" align="center">AI & Data Intelligence</th>
-      <th width="33%" align="center">Orchestration & Security</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle" height="60">
-        <img src="https://skillicons.dev/icons?i=aws" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=azure" height="40" style="vertical-align: middle;" />
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" height="22" style="vertical-align: middle; margin-left: 5px;" />
-      </td>
-      <td align="center" valign="middle" height="60">
-        <img src="https://skillicons.dev/icons?i=py" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=r" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=tensorflow" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=pytorch" height="40" style="vertical-align: middle;" />
-      </td>
-      <td align="center" valign="middle" height="60">
-        <img src="https://skillicons.dev/icons?i=terraform" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=docker" height="40" style="vertical-align: middle;" />
-        <img src="https://skillicons.dev/icons?i=git" height="40" style="vertical-align: middle;" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><small>AWS · GCP · Azure · <b>OCI</b></small></td>
-      <td align="center"><small>Python · R · TF · PyTorch</small></td>
-      <td align="center"><small>Terraform · K8s · Docker · Git</small></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🎓 Education & Certifications
-
-- **M.Sc. in Data Management & Governance** – Universidad de Buenos Aires (In Progress).
-- **OCI Multicloud Architect Professional** (2025).
-- **OCI Architect Associate** (2025).
-- **B.Sc. in Experimental Psychology** – Universidad de Buenos Aires.
-
----
-
-### 🌐 Let’s Connect
-I’m interested in roles where business logic meets technical rigor: **Staff/Solutions Architecture, AI Platform Engineering, or Cloud Strategy.**
+      <th width="33%" align="center">Data & AI Governance</th>
+      <th width="33%" align="center">Cloud Infrastructure</th>
+      <th width="3
 
 **Contact:** [matias.cloudarch@gmail.com](mailto:matias.cloudarch@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matiascloudarch)
